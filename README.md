@@ -47,7 +47,7 @@ No todos los vídeos llevan presentación: los que aparecen con "—" no tienen 
 | 4.4 | Microservicio cliente CRUD libros parte II | — |
 | 4.5 | Microservicio cliente CRUD libros parte III | — |
 | 4.6 | Http Client interfaces | [PDF](4_6_http_client_interfaces.pdf) |
-| 4.7 | Microservicio Ejemplares con Http interfaces | [PDF](4_7_interaccion_con_http_interfaces_nueva.pdf) |
+| 4.7 | Microservicio Ejemplares con Http interfaces | — |
 
 ## Tema 5. Securización
 
